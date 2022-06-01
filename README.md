@@ -1,4 +1,4 @@
-### Hi, I'm Klare 👋
+### 👋 Hi, I'm Klare
 
 I lead the Enterprise design team here at GitHub.
 
@@ -6,7 +6,7 @@ I lead the Enterprise design team here at GitHub.
 - Previously, I led design at [CodePen](https://www.codepen.io).
 - I have a lot of creative hobbies, but sometimes I like making [abstract art](https://wsartwalk.files.wordpress.com/2017/05/klare_frank1.jpg?w=768).
 
-## Trails I've recently hiked ⛰️
+## ⛰️ Trails I've recently hiked
 
 - [Ingalls Creek](https://www.wta.org/go-hiking/hikes/ingalls-creek)
 - [Mount Si Old Trail](https://www.wta.org/go-hiking/hikes/mount-si-old-trail)
