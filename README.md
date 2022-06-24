@@ -8,6 +8,7 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've recently hiked
 
+- [Pratt Lake](https://www.wta.org/go-hiking/hikes/pratt-lake)
 - [Ingalls Creek](https://www.wta.org/go-hiking/hikes/ingalls-creek)
 - [Mount Si Old Trail](https://www.wta.org/go-hiking/hikes/mount-si-old-trail)
 - [Hallasan Summit](https://www.alltrails.com/trail/south-korea/jeju/hallasan-summit-through-hike?u=i)
