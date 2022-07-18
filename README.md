@@ -8,6 +8,7 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've hiked this year
 
+- [Navaho Pass and Peak](https://www.wta.org/go-hiking/hikes/navaho-peak)
 - [Mount Defiance](https://www.wta.org/go-hiking/hikes/mount-defiance)
 - [Colchuck Lake](https://www.wta.org/go-hiking/hikes/colchuck-lake)
 - [Mailbox Peak](https://www.wta.org/go-hiking/hikes/mailbox-peak)
