@@ -4,7 +4,7 @@ I lead the Enterprise design team here at GitHub.
 
 - Sometimes I tweet about design and life [@klare](https://www.twitter.com/klare).
 - Previously, I led design at [CodePen](https://www.codepen.io).
-- I have a lot of creative hobbies, but sometimes I like making [abstract art](https://wsartwalk.files.wordpress.com/2017/05/klare_frank1.jpg?w=768).
+- I have a lot of creative hobbies, like making [abstract art](https://wsartwalk.files.wordpress.com/2017/05/klare_frank1.jpg?w=768), tailoring my clothes, and coming up with new [recipes](https://github.com/kfrank/recipes).
 
 ### ⛰️ Trails I've hiked this year
 
@@ -20,3 +20,4 @@ I lead the Enterprise design team here at GitHub.
 - [Fort Ebey](https://www.wta.org/go-hiking/hikes/fort-ebey-state-park)
 - [Oyster Dome](https://www.wta.org/go-hiking/hikes/oyster-dome)
 - [Grand Prospect](https://www.wta.org/go-hiking/hikes/rattlesnake-mountain-grand-prospect)
+- [Wonderland Trail: Longmire to Reflection Lakes and Box Canyon](https://www.mountaineers.org/activities/routes-places/longmire-reflection-lakes-box-canyon-via)
