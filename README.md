@@ -8,6 +8,7 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've hiked this year
 
+- [Wonderland Trail: Longmire to Reflection Lakes and Box Canyon](https://www.mountaineers.org/activities/routes-places/longmire-reflection-lakes-box-canyon-via)
 - [Navaho Pass and Peak](https://www.wta.org/go-hiking/hikes/navaho-peak)
 - [Mount Defiance](https://www.wta.org/go-hiking/hikes/mount-defiance)
 - [Colchuck Lake](https://www.wta.org/go-hiking/hikes/colchuck-lake)
@@ -20,4 +21,3 @@ I lead the Enterprise design team here at GitHub.
 - [Fort Ebey](https://www.wta.org/go-hiking/hikes/fort-ebey-state-park)
 - [Oyster Dome](https://www.wta.org/go-hiking/hikes/oyster-dome)
 - [Grand Prospect](https://www.wta.org/go-hiking/hikes/rattlesnake-mountain-grand-prospect)
-- [Wonderland Trail: Longmire to Reflection Lakes and Box Canyon](https://www.mountaineers.org/activities/routes-places/longmire-reflection-lakes-box-canyon-via)
