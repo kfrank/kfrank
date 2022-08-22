@@ -8,6 +8,7 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've hiked this year
 
+- [Cascade Pass and Sahale Arm](https://www.wta.org/go-hiking/hikes/sahale-arm)
 - [Wonderland Trail: Longmire to Reflection Lakes and Box Canyon](https://www.mountaineers.org/activities/routes-places/longmire-reflection-lakes-box-canyon-via)
 - [Navaho Pass and Peak](https://www.wta.org/go-hiking/hikes/navaho-peak)
 - [Mount Defiance](https://www.wta.org/go-hiking/hikes/mount-defiance)
