@@ -8,6 +8,8 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've hiked this year
 
+- [Granite Mountain](https://www.wta.org/go-hiking/hikes/granite-mountain)
+- [Seven Lakes Basin Loop](https://www.wta.org/go-hiking/hikes/seven-lakes-basin)
 - [Cascade Pass and Sahale Arm](https://www.wta.org/go-hiking/hikes/sahale-arm)
 - [Wonderland Trail: Longmire to Reflection Lakes and Box Canyon](https://www.mountaineers.org/activities/routes-places/longmire-reflection-lakes-box-canyon-via)
 - [Navaho Pass and Peak](https://www.wta.org/go-hiking/hikes/navaho-peak)
