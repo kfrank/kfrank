@@ -8,6 +8,7 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've hiked this year
 
+- [Alta Mountain](https://www.wta.org/go-hiking/hikes/alta-mountain)
 - [Granite Mountain](https://www.wta.org/go-hiking/hikes/granite-mountain)
 - [Seven Lakes Basin Loop](https://www.wta.org/go-hiking/hikes/seven-lakes-basin)
 - [Cascade Pass and Sahale Arm](https://www.wta.org/go-hiking/hikes/sahale-arm)
