@@ -8,6 +8,9 @@ I lead the Enterprise design team here at GitHub.
 
 ### ⛰️ Trails I've hiked this year
 
+- [Poo Poo Point](https://www.wta.org)
+- [Squak Mountain](https://www.wta.org)
+- [Mt Si](https://www.wta.org)
 - [Alta Mountain](https://www.wta.org/go-hiking/hikes/alta-mountain)
 - [Granite Mountain](https://www.wta.org/go-hiking/hikes/granite-mountain)
 - [Seven Lakes Basin Loop](https://www.wta.org/go-hiking/hikes/seven-lakes-basin)
