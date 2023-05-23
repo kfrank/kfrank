@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Klare
 
-I lead the Enterprise design team here at GitHub.
+I lead the Platform & Enterprise Design team here at GitHub.
 
 - Sometimes I tweet about design and life [@klare](https://www.twitter.com/klare).
 - Previously, I led design at [CodePen](https://www.codepen.io).
